@@ -15,10 +15,11 @@ Including another URLconf
 """
 
 from django.urls import path, include
-from django.conf import settings
-from django.conf.urls.static import static
 from django.urls import re_path
+from django.conf.urls.static import static
+from django.conf import settings
 
 urlpatterns = [
-    re_path('^', include('app1.urls')),
-]+ static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+    re_path('^api/', include('app1.urls')),
+    re_path('^api/', include('asapp.urls'))
+] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)

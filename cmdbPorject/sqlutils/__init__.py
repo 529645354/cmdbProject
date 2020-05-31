@@ -11,15 +11,15 @@ class DBConnect:
     @staticmethod
     def connect():
         pool = PooledDB(creator=pymysql, mincached=5, user=settings.DBUSER, passwd=settings.DBPASS,
-                        port=settings.DBPORT, database=settings.DATABASE)
+                        port=settings.DBPORT, database=settings.DATABASE,host=settings.DBHOST)
         return pool.connection()
 
-    def Query(self, sql):
-        self.cour.execute(sql)
+    def Query(self, sql, args: list = None):
+        self.cour.execute(sql, args)
         res = self.cour.fetchall()
         return res
 
-    def Modify(self, sql, args: list):
+    def Modify(self, sql, args: list = None):
         self.cour.execute(sql, args)
         res = self.conn.commit()
         return res

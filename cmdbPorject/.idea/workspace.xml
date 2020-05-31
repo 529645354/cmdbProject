@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2f73d5f-a623-4ea7-bf42-a1bbdec2144a" name="Default Changelist" comment="" />
+    <list default="true" id="f2f73d5f-a623-4ea7-bf42-a1bbdec2144a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cmdbPorject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cmdbPorject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/consumers.py" beforeDir="false" afterPath="$PROJECT_DIR$/app1/consumers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/routing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app1/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app1/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmdbPorject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/cmdbPorject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmdbPorject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cmdbPorject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/serverMon/install.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sqlutils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sqlutils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/b.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/fonts/element-icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/axios.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vue/vue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/status/status.py" beforeDir="false" afterPath="$PROJECT_DIR$/status/status.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +37,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app1/views.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmdbPorject/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+            <state relative-caret-position="294">
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <folding>
+                <element signature="e#636#673#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/serverMon/mon.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asapp/apps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="33" selection-start-column="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker_server/client_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asapp/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="89" selection-start-line="89" selection-end-line="89" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -25,32 +91,27 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/status/status.py">
+        <entry file="file://$PROJECT_DIR$/cmdbPorject/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+            <state relative-caret-position="861">
+              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sqlutils/__init__.py">
+        <entry file="file://$PROJECT_DIR$/MiddlewareMixin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state>
               <folding>
-                <element signature="e#0#37#0" expanded="true" />
+                <element signature="e#0#52#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app1/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -66,41 +127,89 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>task</find>
+      <find>callback</find>
+      <find>display</find>
+      <find>hea</find>
+      <find>vnc</find>
+      <find>devops</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sqlutils.py" />
         <option value="$PROJECT_DIR$/app1/migrations/urls.py" />
         <option value="$PROJECT_DIR$/static/test.html" />
-        <option value="$PROJECT_DIR$/cmdbPorject/urls.py" />
         <option value="$PROJECT_DIR$/MiddlewareMixin.py" />
-        <option value="$PROJECT_DIR$/cmdbPorject/routing.py" />
-        <option value="$PROJECT_DIR$/app1/routing.py" />
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/templates/a.html" />
         <option value="$PROJECT_DIR$/static/b.html" />
-        <option value="$PROJECT_DIR$/app1/consumers.py" />
         <option value="$PROJECT_DIR$/static/index.html" />
-        <option value="$PROJECT_DIR$/cmdbPorject/settings.py" />
         <option value="$PROJECT_DIR$/static/js/js.js" />
+        <option value="$PROJECT_DIR$/app1/test.py" />
+        <option value="$PROJECT_DIR$/cmdbPorject/routing.py" />
+        <option value="$PROJECT_DIR$/serverMon/install.sh" />
+        <option value="$PROJECT_DIR$/tasks/__init__.py" />
+        <option value="$PROJECT_DIR$/tasks/task.log" />
         <option value="$PROJECT_DIR$/app1/urls.py" />
         <option value="$PROJECT_DIR$/sqlutils/__init__.py" />
+        <option value="$PROJECT_DIR$/serverMon/ssh.py" />
+        <option value="$PROJECT_DIR$/ansible_yaml/test.yml" />
+        <option value="$USER_HOME$/.local/lib/python3.5/site-packages/ansible/utils/display.py" />
+        <option value="$PROJECT_DIR$/ansible_yaml/tailf.py" />
+        <option value="$PROJECT_DIR$/app1/routing.py" />
+        <option value="$PROJECT_DIR$/app1/consumers.py" />
+        <option value="$PROJECT_DIR$/ansible_yaml/ansible.txt" />
+        <option value="$PROJECT_DIR$/ansible_yaml/yaml_log/ansbile.txt" />
+        <option value="$PROJECT_DIR$/ansible_yaml/yaml_log/ansbile.txt.log" />
+        <option value="$PROJECT_DIR$/ansible_yaml/yaml_log/run_ansible_log_1588499022.75.log" />
+        <option value="$PROJECT_DIR$/ansible_yaml/yaml_log/read.py" />
+        <option value="$PROJECT_DIR$/this1588514633.864776.log" />
+        <option value="$PROJECT_DIR$/wtf.log" />
+        <option value="$PROJECT_DIR$/asapp/consumers.py" />
+        <option value="$PROJECT_DIR$/asapp/routing.py" />
+        <option value="$PROJECT_DIR$/channle_route/routing.py" />
+        <option value="$USER_HOME$/.local/lib/python3.5/site-packages/ansible/executor/playbook_executor.py" />
+        <option value="$PROJECT_DIR$/ansible_yaml/yml/test.yml" />
+        <option value="$PROJECT_DIR$/config" />
         <option value="$PROJECT_DIR$/status/status.py" />
+        <option value="$PROJECT_DIR$/docker_server/__init__.py" />
+        <option value="$PROJECT_DIR$/ansible_yaml/test.py" />
+        <option value="$PROJECT_DIR$/tasks/tk.py" />
+        <option value="$PROJECT_DIR$/tasks/test.py" />
         <option value="$PROJECT_DIR$/app1/views.py" />
+        <option value="$PROJECT_DIR$/asapp/urls.py" />
+        <option value="$PROJECT_DIR$/docker_server/client_server.py" />
+        <option value="$PROJECT_DIR$/cmdbPorject/uwsgi.ini" />
+        <option value="$PROJECT_DIR$/cmdbPorject/asgi.py" />
+        <option value="$PROJECT_DIR$/cmdbPorject/settings.py" />
+        <option value="$PROJECT_DIR$/ansible_yaml/inv.py" />
+        <option value="$PROJECT_DIR$/cmdbPorject/urls.py" />
+        <option value="$PROJECT_DIR$/uwsgi.log" />
+        <option value="$PROJECT_DIR$/serverMon/mon.py" />
+        <option value="$PROJECT_DIR$/asapp/views.py" />
+        <option value="$PROJECT_DIR$/test.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="582" />
-    <option name="y" value="84" />
-    <option name="width" value="1646" />
-    <option name="height" value="749" />
+    <option name="x" value="676" />
+    <option name="y" value="89" />
+    <option name="width" value="1480" />
+    <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,12 +220,43 @@
             <path>
               <item name="cmdbPorject" type="b2602c69:ProjectViewProjectNode" />
               <item name="cmdbPorject" type="462c0819:PsiDirectoryNode" />
+              <item name="ansible_yaml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmdbPorject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmdbPorject" type="462c0819:PsiDirectoryNode" />
+              <item name="ansible_yaml" type="462c0819:PsiDirectoryNode" />
+              <item name="yml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmdbPorject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmdbPorject" type="462c0819:PsiDirectoryNode" />
               <item name="app1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cmdbPorject" type="b2602c69:ProjectViewProjectNode" />
               <item name="cmdbPorject" type="462c0819:PsiDirectoryNode" />
+              <item name="asapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmdbPorject" type="b2602c69:ProjectViewProjectNode" />
               <item name="cmdbPorject" type="462c0819:PsiDirectoryNode" />
+              <item name="channle_route" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmdbPorject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmdbPorject" type="462c0819:PsiDirectoryNode" />
+              <item name="cmdbPorject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmdbPorject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmdbPorject" type="462c0819:PsiDirectoryNode" />
+              <item name="docker_server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmdbPorject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmdbPorject" type="462c0819:PsiDirectoryNode" />
+              <item name="serverMon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cmdbPorject" type="b2602c69:ProjectViewProjectNode" />
@@ -128,33 +268,44 @@
               <item name="cmdbPorject" type="462c0819:PsiDirectoryNode" />
               <item name="status" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cmdbPorject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmdbPorject" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmdbPorject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/asapp" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/static" />
-      <recent name="$PROJECT_DIR$/app1" />
-      <recent name="$PROJECT_DIR$/cmdbPorject" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/asapp" />
+      <recent name="$PROJECT_DIR$/serverMon" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/static/js" />
       <recent name="$PROJECT_DIR$/static/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ansible_yaml/yml" />
+      <recent name="$PROJECT_DIR$/channle_route" />
+      <recent name="$PROJECT_DIR$/cmdbPorject" />
       <recent name="$PROJECT_DIR$/static" />
-      <recent name="$PROJECT_DIR$/static/vue" />
-      <recent name="$PROJECT_DIR$/sqlutils/elm" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -169,7 +320,117 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.test (1)">
+    <configuration name="client_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cmdbPorject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/docker_server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/docker_server/client_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cmdbPorject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ansible_yaml" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ansible_yaml/inv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cmdbPorject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cmdbPorject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cmdbPorject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ansible_yaml" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ansible_yaml/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="cmdbPorject" type="Python.DjangoServer" factoryName="Django server">
       <module name="cmdbPorject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,6 +454,15 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.test (2)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.client_server" />
+        <item itemvalue="Python.inv" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -212,12 +482,78 @@
       <workItem from="1585536949453" duration="710000" />
       <workItem from="1585556739737" duration="4808000" />
       <workItem from="1585626644911" duration="15782000" />
-      <workItem from="1585708661911" duration="5148000" />
+      <workItem from="1585708661911" duration="13485000" />
+      <workItem from="1585918820734" duration="856000" />
+      <workItem from="1586221625901" duration="10737000" />
+      <workItem from="1586478541911" duration="6302000" />
+      <workItem from="1586739462458" duration="7382000" />
+      <workItem from="1586826565030" duration="7907000" />
+      <workItem from="1586910520405" duration="12484000" />
+      <workItem from="1587001798317" duration="6946000" />
+      <workItem from="1587084446049" duration="1772000" />
+      <workItem from="1587086399407" duration="1841000" />
+      <workItem from="1587256275899" duration="9010000" />
+      <workItem from="1587344380801" duration="6145000" />
+      <workItem from="1587363454740" duration="8847000" />
+      <workItem from="1587430428657" duration="14857000" />
+      <workItem from="1587517094662" duration="6710000" />
+      <workItem from="1587611290289" duration="4764000" />
+      <workItem from="1587644968323" duration="6858000" />
+      <workItem from="1587689109149" duration="12866000" />
+      <workItem from="1587711889440" duration="758000" />
+      <workItem from="1587734347712" duration="27000" />
+      <workItem from="1587775977063" duration="599000" />
+      <workItem from="1587864503330" duration="600000" />
+      <workItem from="1587949982509" duration="4077000" />
+      <workItem from="1587956772746" duration="3832000" />
+      <workItem from="1587961446658" duration="12183000" />
+      <workItem from="1587995886667" duration="1178000" />
+      <workItem from="1588035841126" duration="12252000" />
+      <workItem from="1588120605194" duration="11063000" />
+      <workItem from="1588208839750" duration="9600000" />
+      <workItem from="1588293215267" duration="11143000" />
+      <workItem from="1588379177036" duration="10886000" />
+      <workItem from="1588464018221" duration="32199000" />
+      <workItem from="1588554280499" duration="16743000" />
+      <workItem from="1588641984658" duration="6559000" />
+      <workItem from="1588725712893" duration="11654000" />
+      <workItem from="1588815722571" duration="7644000" />
+      <workItem from="1588897546883" duration="521000" />
+      <workItem from="1588902192814" duration="9498000" />
+      <workItem from="1588984967065" duration="8419000" />
+      <workItem from="1589073474910" duration="8422000" />
+      <workItem from="1589159242257" duration="9708000" />
+      <workItem from="1589245032593" duration="8774000" />
+      <workItem from="1589331108220" duration="8453000" />
+      <workItem from="1589416975448" duration="10574000" />
+      <workItem from="1589505606757" duration="8978000" />
+      <workItem from="1589589520471" duration="236000" />
+      <workItem from="1589589770862" duration="15325000" />
+      <workItem from="1589675541082" duration="11169000" />
+      <workItem from="1589765606549" duration="9272000" />
+      <workItem from="1589854085206" duration="9076000" />
+      <workItem from="1589874074923" duration="174000" />
+      <workItem from="1589874267536" duration="71000" />
+      <workItem from="1589874356380" duration="44000" />
+      <workItem from="1589874420458" duration="112000" />
+      <workItem from="1589874551248" duration="52000" />
+      <workItem from="1590023865751" duration="1452000" />
+      <workItem from="1590112090753" duration="633000" />
+      <workItem from="1590198644183" duration="622000" />
+      <workItem from="1590284564271" duration="2375000" />
+      <workItem from="1590369950665" duration="652000" />
+      <workItem from="1590459881796" duration="1249000" />
+      <workItem from="1590539258486" duration="1235000" />
+      <workItem from="1590628673333" duration="13165000" />
+      <workItem from="1590676033230" duration="2481000" />
+      <workItem from="1590716965155" duration="9600000" />
+      <workItem from="1590829252034" duration="1385000" />
+      <workItem from="1590894321100" duration="6280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44719000" />
+    <option name="totallyTimeSpent" value="492344000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -229,201 +565,455 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="426" y="186" width="1646" height="749" extended-state="0" />
+    <frame x="676" y="89" width="1480" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16729324" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19650349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32908705" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.70886755" visible="true" weight="0.31530344" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49679488" weight="0.39577836" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4985591" weight="0.3295711" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4979021" weight="0.32849604" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49970812" weight="0.32942432" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.506244" side_tool="true" weight="0.27426636" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.493756" visible="true" weight="0.33990148" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4985591" weight="0.3295711" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.47132868" side_tool="true" weight="0.86147755" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.5286713" weight="0.19656992" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49626067" weight="0.32659575" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Translate" order="5" weight="0.19017094" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1826923" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32908705" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8335843" visible="true" weight="0.21808511" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49732906" weight="0.39787233" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4985591" weight="0.3287234" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49970812" weight="0.32942432" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.19126506" side_tool="true" weight="0.5615491" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.80873495" weight="0.31276596" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49626067" weight="0.32659575" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/asapp/urls.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cmdbPorject$ssh.coverage" NAME="ssh Coverage Results" MODIFIED="1587652635358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/serverMon" />
+    <SUITE FILE_PATH="coverage/cmdbPorject$client_server.coverage" NAME="client_server Coverage Results" MODIFIED="1589075342542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docker_server" />
+    <SUITE FILE_PATH="coverage/cmdbPorject$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1590908503144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cmdbPorject$test_nmap.coverage" NAME="test_nmap Coverage Results" MODIFIED="1587086302070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/.local/lib/python3.5/site-packages/nmap" />
+    <SUITE FILE_PATH="coverage/cmdbPorject$tailf.coverage" NAME="tailf Coverage Results" MODIFIED="1588297583589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ansible_yaml" />
+    <SUITE FILE_PATH="coverage/cmdbPorject$test.coverage" NAME="test Coverage Results" MODIFIED="1589592562090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ansible_yaml" />
+    <SUITE FILE_PATH="coverage/cmdbPorject$tk.coverage" NAME="tk Coverage Results" MODIFIED="1587991736717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tasks" />
+    <SUITE FILE_PATH="coverage/cmdbPorject$inv.coverage" NAME="inv Coverage Results" MODIFIED="1588573772926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ansible_yaml" />
+    <SUITE FILE_PATH="coverage/cmdbPorject$read.coverage" NAME="read Coverage Results" MODIFIED="1588499565599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ansible_yaml/yaml_log" />
+    <SUITE FILE_PATH="coverage/cmdbPorject$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1589596683719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tasks" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sqlutils.py" />
-    <entry file="file://$PROJECT_DIR$/static/elm/index.js" />
-    <entry file="file://$PROJECT_DIR$/static/elm/index.css" />
-    <entry file="file://$PROJECT_DIR$/static/vue/vue.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/X-admin/js/xcity.js" />
-    <entry file="file://$PROJECT_DIR$/static/js/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/index.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app1/admin.py" />
-    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/Crypto/PublicKey/RSA.py">
+    <entry file="file://$PROJECT_DIR$/ansible_yaml/tailf.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/ansible/executor/playbook_executor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="184" column="8" selection-start-line="184" selection-start-column="8" selection-end-line="184" selection-end-column="8" />
+        <state relative-caret-position="518">
+          <caret line="225" column="25" selection-start-line="225" selection-start-column="25" selection-end-line="225" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cmdbPorject/urls.py">
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/ansible/executor/task_queue_manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        <state relative-caret-position="203">
+          <caret line="266" selection-start-line="266" selection-end-line="266" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/kubernetes/config/kube_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="718" column="4" selection-start-line="718" selection-start-column="4" selection-end-line="718" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/kubernetes/client/api/core_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="104" column="53" lean-forward="true" selection-start-line="104" selection-start-column="53" selection-end-line="104" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channle_route/routing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <element signature="e#636#673#0" expanded="true" />
+            <element signature="e#0#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app1/__init__.py">
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/docker/api/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="102" column="24" lean-forward="true" selection-start-line="102" selection-start-column="17" selection-end-line="102" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/docker/api/daemon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/docker/models/resource.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker_server/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/a.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/channels/generic/websocket.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-693">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app1/apps.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app1/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app1/routing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/b.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/echarts.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MiddlewareMixin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="999">
-          <caret line="59" column="35" lean-forward="true" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
-          <folding>
-            <element signature="n#style#0;n#el-table#0;n#template#0;n#el-main#0;n#el-container#0;n#el-container#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmdbPorject/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmdbPorject/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="128" column="15" lean-forward="true" selection-start-line="128" selection-start-column="15" selection-end-line="128" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/config" />
     <entry file="file://$PROJECT_DIR$/app1/consumers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="441">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
           <folding>
-            <element signature="e#0#56#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/js.js">
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/kubernetes/client/api/apps_v1_api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state relative-caret-position="-294">
+          <caret line="2350" column="8" selection-start-line="2350" selection-start-column="8" selection-end-line="2350" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/index.py">
+    <entry file="file://$PROJECT_DIR$/tasks/task.log">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible_yaml/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/ansible/modules/storage/netapp/na_elementsw_vlan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="160" column="8" selection-start-line="160" selection-start-column="8" selection-end-line="160" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/docker/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/docker/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-226">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/docker/api/network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128">
+          <caret line="163" column="47" lean-forward="true" selection-start-line="163" selection-start-column="47" selection-end-line="163" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/docker/models/networks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="156" column="8" selection-start-line="156" selection-start-column="8" selection-end-line="156" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/docker/models/containers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="587" column="23" selection-start-line="587" selection-start-column="12" selection-end-line="587" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/docker/errors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/docker/models/images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="195" lean-forward="true" selection-start-line="195" selection-end-line="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/status/status.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app1/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7623">
+          <caret line="372" column="34" selection-start-line="372" selection-start-column="34" selection-end-line="372" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/tk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmdbPorject/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#227#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/channels/routing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lib/python3.5/site-packages/daphne/cli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bin/daphne">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/importlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmdbPorject/uwsgi.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app1/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sqlutils/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="42">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/status/status.py">
+    <entry file="file://$PROJECT_DIR$/cmdbPorject/asgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app1/views.py">
+    <entry file="file://$PROJECT_DIR$/ansible_yaml/yml/test.yml" />
+    <entry file="file://$PROJECT_DIR$/asapp/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        <state relative-caret-position="84">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible_yaml/inv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="95" column="106" selection-start-line="95" selection-start-column="106" selection-end-line="95" selection-end-column="106" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uwsgi.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233037">
+          <caret line="11097" column="39" selection-start-line="11097" selection-start-column="39" selection-end-line="11097" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmdbPorject/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="e#636#673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverMon/mon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asapp/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker_server/client_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmdbPorject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiddlewareMixin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="58" column="59" selection-start-line="58" selection-start-column="59" selection-end-line="58" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1247971764/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2125">
+          <caret line="3620" column="12" lean-forward="true" selection-start-line="3620" selection-start-column="12" selection-end-line="3620" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

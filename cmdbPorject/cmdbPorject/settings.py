@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'channels',
     'app1',
+    'asapp'
 
 ]
 
@@ -48,8 +49,8 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'MiddlewareMixin.Md1',
-    'MiddlewareMixin.Md2'
+    # 'MiddlewareMixin.Md1',
+    # 'MiddlewareMixin.Md2'
 ]
 
 ROOT_URLCONF = 'cmdbPorject.urls'
@@ -116,14 +117,23 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
-STATIC_URL = '/static/'
+STATIC_URL = '/yml/'
 
 STATICFILES_DIRS = (
-    os.path.join(os.path.join(BASE_DIR, 'static')),
+    os.path.join(os.path.join(BASE_DIR, 'ansible_yaml/yml/')),
 )
 
-ASGI_APPLICATION = 'app1.routing.application'
+ASGI_APPLICATION = 'channle_route.routing.application'
+CHANNEL_LAYERS = {
+    'default': {
+        'BACKEND': 'channels_redis.core.RedisChannelLayer',
+        'CONFIG': {
+            "hosts": [('127.0.0.1', 6379)], #需修改
+        },
+    },
+}
 DBUSER = "cck"
 DBPASS = "redhat"
 DBPORT = 3306
 DATABASE="cmdb"
+DBHOST="127.0.0.1"

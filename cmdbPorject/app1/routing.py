@@ -1,18 +1,7 @@
-from channels.routing import ProtocolTypeRouter
 from django.conf.urls import url
-from channels.auth import AuthMiddlewareStack
-from channels.routing import ProtocolTypeRouter, URLRouter
 
-from . import consumers
+from app1 import consumers
+
 websocket_urlpatterns = [
-    url(r'^ws/chat/(?P<room_name>[^/]+)/$', consumers.ChatConsumer),
+    url(r'^deploy$', consumers.ChatConsumer)  # consumers.DeployResult 是该路由的消费者
 ]
-
-
-application = ProtocolTypeRouter({
-'websocket': AuthMiddlewareStack(
-        URLRouter(
-            websocket_urlpatterns
-        )
-    ),
-})
